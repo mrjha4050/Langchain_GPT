@@ -1,4 +1,3 @@
-apikey = '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'
+apikey = 'Your OPENAI api key here'
 
-# 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 "mummy"
 
